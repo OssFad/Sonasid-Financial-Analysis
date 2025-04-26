@@ -29,9 +29,15 @@ The following areas were analyzed:
 
 ### 5. Valuation
 - Market perception of the company
-- P/E ratio, P/B ratio, and intrinsic value estimates (if any)
+- P/E ratio, P/B ratio, and intrinsic value estimates 
 
 ---
 
-## 📂 Project Structure
+## 💻 Tools & Technologies
+
+- Data collection( requests, BeautifulSoup)
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
+- Excel
+- PowerBI
 
