@@ -1,8 +1,15 @@
 # SONASID Financial Analysis
 
+![Alt Text](https://github.com/OssFad/Sonasid-Financial-Analysis/blob/main/sonasid.PNG)
+
+##  Link to Visualize the Dashboard
+
+[View my Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGI4ZmU4YWYtYTE0Zi00NGI4LTk4ZTQtYjY2NzNjNWFlZmE5IiwidCI6IjNkZmE1ODc5LTQ3NmYtNDViNC04MDc5LWZlNjBlYWYzZjhhNSJ9)
+
+
 ## 📊 Project Overview
 
-This project provides a comprehensive financial analysis of **SONASID**, a Moroccan steel manufacturing company. The analysis covers key financial dimensions including **activity**, **solvency**, **liquidity**, **profitability**, and **valuation** to evaluate the company’s financial health and performance over a given period.
+This project provides a comprehensive financial analysis of **SONASID**, a Moroccan steel manufacturing company. The analysis covers key financial dimensions including **activity**, **solvency**, **liquidity**, **profitability**, and **valuation**, to evaluate the company’s financial health and performance over a given period.
 
 ---
 
