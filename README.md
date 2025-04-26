@@ -42,9 +42,9 @@ The following areas were analyzed:
 
 ## 💻 Tools & Technologies
 
-- Data collection( requests, BeautifulSoup)
-- Python (Pandas, Matplotlib, Seaborn)
-- Jupyter Notebook
-- Excel
-- PowerBI
+- 📌 Data collection( requests, BeautifulSoup)
+- 📌 Python (Pandas, Matplotlib, Seaborn)
+- 📌 Jupyter Notebook
+- 📌 Excel
+- 📌 PowerBI
 
